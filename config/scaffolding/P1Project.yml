@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: P1Project
+  gitServerName: bgsge
+  gitUrl: https://github.com/bgsge/P1Project
+  gitUsername: bgsge
+  gitBranch: main
